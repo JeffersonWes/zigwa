@@ -44,7 +44,7 @@ This led to the creation of **ZIGWA** — a platform where:
 ### 🥇 PSG iTech Hackfest Winner (2023)
 
 <p align="center">
-  <img src="./presentation/images/award_stage.jpeg" width="400"/>
+  <img src="./presentation/images/award-stage.jpeg" width="400"/>
   <img src="./presentation/images/certificate-psg.jpeg" width="400"/>
 </p>
 
