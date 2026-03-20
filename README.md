@@ -11,8 +11,8 @@
 
 ## 🔗 Quick Links
 
-* 💻 GitHub: https://github.com/Pratika17/zigwa
-* 📄 Presentation: *[Watch Here](https://youtu.be/njaisNvptus)
+* 💻 GitHub: https://github.com/JeffersonWes/zigwa
+* 📄 Presentation: *[Watch Here](https://youtu.be/qK_CUvWPOKY)
 * 🎥 Online: *[View Here](https://hackfest.info/hackfest2023)*
 
 ---
@@ -155,10 +155,10 @@ lib/
 
 ---
 
-## 📊 Presentation & Demo
+## 📊 Presentation & Online
 
-* 📄 Presentation: *(Add link)*
-* 🎥 Demo: *(Add link)*
+* 📄 Presentation: *[Watch Here](https://youtu.be/qK_CUvWPOKY)*
+* 🎥 Online: *[View Here](https://hackfest.info/hackfest2023)*
 
 ---
 
@@ -166,7 +166,7 @@ lib/
 
 ```bash
 # Clone the repository
-git clone https://github.com/Pratika17/zigwa.git
+git clone https://github.com/JeffersonWes/zigwa.git
 
 # Navigate into project
 cd zigwa
@@ -214,12 +214,12 @@ MIT License
 
 ---
 
-## 👩‍💻 Author
+## 🧑🏻‍💻 Author
 
-**Pratika Baburaj**
+**Jefferson Wesley**
 
-* GitHub: https://github.com/Pratika17
-* LinkedIn: https://linkedin.com/in/pratikababuraj
+* GitHub: https://github.com/JeffersonWes
+* LinkedIn: https://linkedin.com/in/jefferson-w
 
 ---
 
@@ -239,8 +239,8 @@ MIT License
 
 ## 🔗 Quick Links
 
-* 💻 GitHub: https://github.com/Pratika17/zigwa
-* 📄 Presentation: *[Watch Here](https://youtu.be/njaisNvptus)*
+* 💻 GitHub: https://github.com/JeffersonWes/zigwa
+* 📄 Presentation: *[Watch Here](https://youtu.be/qK_CUvWPOKY)*
 * 🎥 Online: *[View Here](https://hackfest.info/hackfest2023)*
 
 ---
@@ -385,7 +385,7 @@ lib/
 
 ## 📊 Presentation & Demo
 
-* 📄 Presentation: *(Add link)*
+* 📄 Presentation: *[Watch Here](https://youtu.be/njaisNvptus)*
 * 🎥 Demo: *(Add link)*
 
 ---
@@ -394,7 +394,7 @@ lib/
 
 ```bash
 # Clone the repository
-git clone https://github.com/Pratika17/zigwa.git
+git clone https://github.com/JeffersonWes/zigwa.git
 
 # Navigate into project
 cd zigwa
@@ -442,12 +442,12 @@ MIT License
 
 ---
 
-## 👩‍💻 Author
+## 🧑🏻‍💻 Author
 
-**Pratika Baburaj**
+**Jefferson Wesley**
 
-* GitHub: https://github.com/Pratika17
-* LinkedIn: https://linkedin.com/in/pratikababuraj
+* GitHub: https://github.com/JeffersonWes
+* LinkedIn: https://linkedin.com/in/jefferson-w
 
 ---
 
