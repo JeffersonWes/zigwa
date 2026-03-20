@@ -43,6 +43,11 @@ This led to the creation of **ZIGWA** — a platform where:
 
 ### 🥇 PSG iTech Hackfest Winner (2023)
 
+<p align="center">
+  <img src="./presentation/images/award_stage.jpeg" width="400"/>
+  <img src="./presentation/images/certificate-psg.jpeg" width="400"/>
+</p>
+
 * Secured **1st place among 2500+ participants**
 * Built a working prototype within **24–36 hours**
 * Recognized for **innovation and societal impact**
